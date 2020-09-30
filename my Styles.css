@@ -1,0 +1,50 @@
+table,tr,td,th{
+
+         border: 1px solid black;
+         column-span:"100";
+         padding: 0.5%;
+         width: 1000px;
+         height: 50px;
+         font-size: 20px;
+         text-align: center;
+         border: 2px solid black;
+         border-collapse: collapse;
+        
+}
+body{
+    background-color: rgb(62, 128, 0);
+    color: silver;
+}
+.name1{
+    color: skyblue;
+    font-size: 22px;
+    background: snow;
+    font-family: cursive;
+}
+h3{
+    color: snow;
+    font-size: 17px;
+}
+h4{
+    color: springgreen;
+    font-size: 16px;
+}
+.add{
+    font-size: 18px;
+}
+#Name{
+    font-size: 18px;
+}
+
+ul,ol{
+    font-size: 20px;
+}
+
+
+.para{
+    font-size: 18px;
+}
+h4{
+    font-size: 18px;
+}
+
